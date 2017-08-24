@@ -1,0 +1,2 @@
+Tunnel Panic Plus
+Uses the EFG Game Framework from the Essential Guide to Plash Games book that Steve Fulton abd I wrote for FOED in 2010. This contains the game, all source and assets and the compiled versions. Is compatible with pure AS3 and the Flash IDE. 
