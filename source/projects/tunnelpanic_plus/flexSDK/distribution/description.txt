@@ -1,0 +1,5 @@
+Tunnel Panic is very simple game. As your ship flies through the retro, 8-bit tunnel, simply press the space bar to move it up. Dodge everything and stay alive for as long as you can. You get more points the longer you make it through the tunnel.
+
+600x400
+
+Retro, Classic, Simple, Evloved, Scrolling
